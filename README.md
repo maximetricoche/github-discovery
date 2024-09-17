@@ -1,3 +1,2 @@
-# first-quest-wildcodeschool
-Premier dépôt pour découvrir GitHub
-Découverte de GitHub avec la Wild Code School !
+# Première quête Odyssey sur GitHub !
+Découverte du fonctionnement de base de GitHub
